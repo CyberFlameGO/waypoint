@@ -177,7 +177,7 @@ require (
 	github.com/containerd/stargz-snapshotter/estargz v0.4.1 // indirect
 	github.com/containerd/typeurl v1.0.2 // indirect
 	github.com/coreos/go-oidc/v3 v3.0.0 // indirect
-	github.com/cyphar/filepath-securejoin v0.2.2 // indirect
+	github.com/cyphar/filepath-securejoin v0.2.4 // indirect
 	github.com/dimchansky/utfbom v1.1.0 // indirect
 	github.com/docker/docker-credential-helpers v0.6.3 // indirect
 	github.com/docker/go-metrics v0.0.1 // indirect
